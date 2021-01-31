@@ -1,6 +1,7 @@
 
 
-const clientID =  "72e0c301a8fe4f3ba100f84861a1ceef";
+const clientID =  null//client id from spotify api goes here
+
 const redirectURI = "http://localhost:3000/"
 
 
